@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LC044 (ShuaiKang Zhou)
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning MCU & nicroPython
+- 🌱 I’m currently learning MCU & microPython
 - 💞️ I’m looking to collaborate on ...
 - 📫 email:LC863854@main.nwpu.edu.cn
 
